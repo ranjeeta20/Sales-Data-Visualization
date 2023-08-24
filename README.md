@@ -1,4 +1,4 @@
 
 # Sales-Data-Visualization
 Interactive Dashboard Vrindra Store Data Analysis)
-using excel i create a dashboard where we can see all sales detail year and monthly
+using MS-Excel created a dashboard where we can see all sales detail yearly and monthly
